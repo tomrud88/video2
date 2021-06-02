@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/video2.github.io/static/css/main.b05918fc.chunk.css",
+    "main.js": "/video2.github.io/static/js/main.dfc75898.chunk.js",
+    "main.js.map": "/video2.github.io/static/js/main.dfc75898.chunk.js.map",
+    "runtime-main.js": "/video2.github.io/static/js/runtime-main.bf25a203.js",
+    "runtime-main.js.map": "/video2.github.io/static/js/runtime-main.bf25a203.js.map",
+    "static/js/2.d3484a1d.chunk.js": "/video2.github.io/static/js/2.d3484a1d.chunk.js",
+    "static/js/2.d3484a1d.chunk.js.map": "/video2.github.io/static/js/2.d3484a1d.chunk.js.map",
+    "static/js/3.fd7d5024.chunk.js": "/video2.github.io/static/js/3.fd7d5024.chunk.js",
+    "static/js/3.fd7d5024.chunk.js.map": "/video2.github.io/static/js/3.fd7d5024.chunk.js.map",
+    "index.html": "/video2.github.io/index.html",
+    "static/css/main.b05918fc.chunk.css.map": "/video2.github.io/static/css/main.b05918fc.chunk.css.map",
+    "static/js/2.d3484a1d.chunk.js.LICENSE.txt": "/video2.github.io/static/js/2.d3484a1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf25a203.js",
+    "static/js/2.d3484a1d.chunk.js",
+    "static/css/main.b05918fc.chunk.css",
+    "static/js/main.dfc75898.chunk.js"
+  ]
+}
