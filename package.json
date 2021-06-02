@@ -2,6 +2,7 @@
   "name": "video2-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tomrud88.github.io/video2.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
@@ -13,6 +14,8 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
